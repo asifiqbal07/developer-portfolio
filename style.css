@@ -3,7 +3,7 @@ body{
     margin: 0%;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 .color-header{
     margin-top: -25px;
@@ -46,4 +46,33 @@ padding-right: 95px;
     background-position: right;
     background-size: 80px 203px;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 80px 163px;
+    margin-top: 100px
+}
+.box-shadow{
+    box-shadow: 10px 10px 40px gray;
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 30px;
+    border-radius: 10px;
+}
+#fsd{
+    border-left: 8px solid tomato;
+}
+#bwd{
+    border-left: 8px solid rgb(90, 141, 241);
+}
+footer p{
+    text-align: center;
+    margin-top: 100px;
+}
+#exp-h1{
+    padding-left: 100px;
+}
+
 
