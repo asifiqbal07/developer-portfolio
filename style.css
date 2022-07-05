@@ -11,7 +11,7 @@ h1{
 .name-color{
     color: rgb(41, 102, 176);
 }
-section{
+.flexible-section{
     display: flex;
 }
 .dream-big{
